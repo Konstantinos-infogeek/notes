@@ -5,7 +5,7 @@
 
 		function postNote(){
 			var t = id('title').value,
-				n = $('.nicEdit-main')[0].textContent;
+				n = $('.nicEdit-main')[0].innerHTML;
 			
 			$.ajax({
 				  type: "POST",
