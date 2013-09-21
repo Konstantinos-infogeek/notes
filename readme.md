@@ -1,6 +1,6 @@
 ﻿#Notes
 
-It is a kind of tutorial for learning how to create posts to your page.
+It is a kind of tutorial for learning how to create posts on your page.
 
 ###File tree
 /Main Folder<br />
